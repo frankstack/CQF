@@ -19,13 +19,13 @@ Scores:
 
 Each folder have: 
 
-1) the original _.pdf_ file with the exam instructions
-2) A _.ipynb_ as the base file with the exam solution
+1) the original _.pdf_ file with the exam instructions.
+2) A _.ipynb_ as the base file with the exam solution.
 
 In some cases: 
 
 3) A _.pdf_ report file with the detailed explanations of the exam solutions.
-4) A _.zip_ file with extra documents (_.py_ files, data, etc.)
+4) A _.zip_ file with extra documents (_.py_ files, data, etc.).
 
 **IMPORTANT**. 
 
