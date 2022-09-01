@@ -1,5 +1,5 @@
 # CQF
-Certified in Quantitative Finance (CQF) program lead by CQF Institute &amp; Fitch Learning.
+**Certified in Quantitative Finance (CQF) program lead by CQF Institute &amp; Fitch Learning**.
 
 Cohort January 2022. 
 
