@@ -17,4 +17,14 @@ Scores:
 
 - **Final Project (40%)**: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ [selected topic] | **Score: (not recieved yet) / 100**
 
+Each folder have: 
+
+1) the original _.pdf_ file with the exam instructions
+2) A _.ipynb_ as the base file with examn solutions
+
+In some cases: 
+
+3) A _.pdf_ report file with the explanations of the exam solution.
+4) A _.zip_ file with extra documents (_.py_ files, data, etc.)
+
 **IMPORTANT**. Please, to display the full version of each _.ipynb_ file (such as graphs and plots), copy its github link and paste it on https://nbviewer.org/.  
