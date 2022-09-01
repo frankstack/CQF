@@ -14,3 +14,5 @@ Scores:
 **Exam 3 - Module 4 (20%)**: Data Science & Supervised Machine Learning | **Score: 86.0/100**
 
 **Final Project (40%)**: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ [selected topic] | **Score: (not recieved yet) / 100**
+
+**IMPORTANT**. Please, to display the full version of each _.ipynb_ file (such as graphs and plots), copy its github link and paste it on https://nbviewer.org/.  
