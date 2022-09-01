@@ -9,13 +9,15 @@ Concluded at August 22th, 2022.
 
 Scores:
 
-- **Exam 1 - Module 2 (20%)**: Quantitative Risk & Return | **Score: 93.7/100**
+- **Exam 0 - Module 1**. Topic: Stochastic Calculus (non-assessed assignment)
 
-- **Exam 2 - Module 3 (20%)**: Equities, Currencies and Pricing Derivatives | **Score: 88.0/100**
+- **Exam 1 - Module 2 (weight: 20%)**. Topic: Quantitative Risk & Return | **Score: 93.7/100**
 
-- **Exam 3 - Module 4 & 5 (20%)**: Data Science & Machine Learning | **Score: 86.0/100**
+- **Exam 2 - Module 3 (weight: 20%)**. Topic: Equities, Currencies and Pricing Derivatives | **Score: 88.0/100**
 
-- **Final Project (40%)**: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ [selected topic] | **Score: (not recieved yet) / 100**
+- **Exam 3 - Module 4 & 5 (weight: 20%)**. Topic: Data Science & Machine Learning | **Score: 86.0/100**
+
+- **Final Project (40%)**. Title: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ [selected topic] | **Score: (not recieved yet) / 100**
 
 Each folder have: 
 
