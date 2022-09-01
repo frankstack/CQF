@@ -1,7 +1,7 @@
 # CQF
 **Certificate in Quantitative Finance (CQF) program lead by CQF Institute &amp; Fitch Learning**.
 
-Certified given to:
+Certification given to:
 
   - Frank Salvador Ygnacio Rosas
 
