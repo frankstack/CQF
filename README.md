@@ -11,7 +11,7 @@ Scores:
 
 - **Exam 0 - Module 1 (non-assessed evaluation)**. Topic: Stochastic Calculus
 
-- **Exam 1 - Module 2 (weight: 20%)**. Topic: Quantitative Risk & Return | **Score: 94/100**
+- **Exam 1 - Module 2 (weight: 20%)**. Topic: Quantitative Risk & Return | **Score: 94.0/100**
 
 - **Exam 2 - Module 3 (weight: 20%)**. Topic: Equities, Currencies and Pricing Derivatives | **Score: 88.0/100**
 
