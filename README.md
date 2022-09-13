@@ -21,7 +21,7 @@ Scores:
 
 Each folder have: 
 
-1) the original _.pdf_ file with the exam instructions.
+1) The original _.pdf_ file with the exam instructions.
 2) A _.ipynb_ as the base file with the exam solution.
 
 In some cases: 
@@ -35,4 +35,4 @@ Please, to display the full version of each _.ipynb_ file (such as graphs and pl
 
 Moreover, to see the _.pdf_ files without any problem, it is advisable to use Chrome or Microsoft Edge.  
 
-Any other queries, can reach the author to fsyrosas@outlook.com
+Any other queries, the author can be reached at fsyrosas@outlook.com
