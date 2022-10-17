@@ -19,7 +19,7 @@ Scores:
 
 - **Final Project (40%)**. Title: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_  | **Score: 73/100**
 
-**CQF - Final Mark: 83/100**
+**CQF - FINAL MARK: 83/100**
 
 Each folder have: 
 
