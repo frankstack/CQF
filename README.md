@@ -20,6 +20,7 @@ Scores:
 - **Final Project (40%)**. Title: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_  | **Score: 73/100**
 
 **CQF - FINAL MARK: 83/100**
+
 You can check the oficial listing as a CQF holder at CQF Institute webpage: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1
 
 
