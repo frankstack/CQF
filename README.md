@@ -21,7 +21,7 @@ Scores:
 
 **CQF - FINAL MARK: 83/100**
 
-(Oficial listing as a CQF holder con be verified at: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1)
+(Oficial listing as a CQF holder can be verified at: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1)
 
 
 Each folder have: 
