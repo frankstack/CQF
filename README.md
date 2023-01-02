@@ -21,7 +21,8 @@ Scores:
 
 **CQF - FINAL MARK: 83/100**
 
-(Official listing as a CQF holder can be verified at: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1)
+To double check the final marks, please see the 'Result Letter and Certificate' folder.
+(Moreover, official listing as a CQF holder can be verified at: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1)
 
 
 Each folder have: 
