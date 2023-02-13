@@ -24,7 +24,7 @@ Scores:
 To double check these final marks, please see the "Result Letter and Certificate" folder in the repository. Moreover, official listing as a CQF holder can be verified at: https://www.cqf.com/why-cqf/global-alumni/alumni-listing/y?page=1.
 
 
-Each folder have: 
+Each folder contains: 
 
 1) The original _.pdf_ file with the exam instructions.
 2) A _.ipynb_ as the base file with the exam solution.
