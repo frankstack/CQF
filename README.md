@@ -11,13 +11,13 @@ Scores:
 
 - **Exam 0 - Module 1 (non-assessed evaluation)**. Topic: Stochastic Calculus
 
-- **Exam 1 - Module 2 (weight: 20%)**. Topic: Quantitative Risk & Return | **Score: 94/100**
+- **Exam 1 - Module 2**. Topic: Quantitative Risk & Return | **Score: 94/100**
 
-- **Exam 2 - Module 3 (weight: 20%)**. Topic: Equities, Currencies and Pricing Derivatives | **Score: 88/100**
+- **Exam 2 - Module 3**. Topic: Equities, Currencies and Pricing Derivatives | **Score: 88/100**
 
-- **Exam 3 - Module 4 & 5 (weight: 20%)**. Topic: Data Science & Machine Learning | **Score: 86/100**
+- **Exam 3 - Module 4 & 5**. Topic: Data Science & Machine Learning | **Score: 86/100**
 
-- **Final Project (40%)**. Title: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ 
+- **Final Project**. Title: _Deep Learning for Financial Time Series. A case of study of Fractional Differentiated Features_ 
 
 **CQF - FINAL MARK: 83/100**
 
