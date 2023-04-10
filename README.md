@@ -3,7 +3,7 @@
 
 Certification given to:
 
-  - Frank Salvador Ygnacio Rosas (Cohort January 2022 candidate)
+  - Frank Salvador Ygnacio Rosas (Cohort January 2022)
 
 Concluded at August 22th, 2022.
 
